@@ -9,8 +9,10 @@ public class Main {
         int a = teclado.nextInt();
         int b = teclado.nextInt();
 
+        int soma = a + b;
+
         // exibo a soma
-        System.out.println(a + b);
+        System.out.println(soma);
 
     }
 }
